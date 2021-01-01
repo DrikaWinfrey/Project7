@@ -1,4 +1,4 @@
-# Project7
+# Sorting Algorithms
 
 I wrote this program to time different sorting algorithms.
 
